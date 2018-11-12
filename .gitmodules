@@ -1,0 +1,3 @@
+[submodule "KigginsEngine/vendor/spdlog"]
+	path = KigginsEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
